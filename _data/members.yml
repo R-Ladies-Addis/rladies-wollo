@@ -1,31 +1,30 @@
-- name: Margareth Gfrerer
-  affiliation: ESC
-  github: Margareth-Gfrerer
-  interests:
-    - Data Literacy
-    - Open Science
-- name: Mesfin Diro
-  affiliation: AAU
-  github: mesfind
-  interests:
-    - Data Science 
-    - Programming
-    - HPC
-- name: Dagim Yoseph
-  affiliation: AAU
-  github: dagimy
-  interests:
-    - Economics 
-    - Operations Research
-- name: Wubnesh Shiferaw
-  affiliation: HERQA
+- name: Netsanet Admasu
+  affiliation: DU
   github: 
   interests:
-    - Data Literacy
-    - Open Science 
-- name: Bonny Adane
-  affiliation: AAU
+    - Engineering
+    
+- name: Wogaye Alemu
+  affiliation: DU
   github: 
   interests:
-    - Data Literacy
-    - Open Science
+    - Health Science
+
+- name: Kokebe Yohannes
+  affiliation: DU
+  github: 
+  interests:
+    - Agriculture
+
+- name: Shewaye
+  affiliation: DU
+  github: 
+  interests:
+    - Social Science
+    
+- name: Aberash 
+  affiliation: DU
+  github: 
+  interests:
+    - Natural Science
+

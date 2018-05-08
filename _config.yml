@@ -3,9 +3,9 @@
 
 
 #Step 1: give your study group a name and a short description:
-title: R-Ladies Dilla
+title: R-Ladies Wechamo
 description: "Building more"
-url: https://r-ladies-addis.github.io/rladies-dilla/
+url: https://r-ladies-addis.github.io/rladies-wechamo/
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
 
 
@@ -19,7 +19,7 @@ url: https://r-ladies-addis.github.io/rladies-dilla/
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome to R-Ladies Dilla"
+headlineSmall: "Welcome to R-Ladies Wechamo"
 headlineMain: "Let's Build a Vibrant R Community in Ethiopia"
 
 # Setup Google Calendar

@@ -1,30 +1,62 @@
-- name: Netsanet Admasu
-  affiliation: DU
+- name: Meseret melaku
+  affiliation: Wollo University
   github: 
   interests:
-    - Engineering
     
-- name: Wogaye Alemu
-  affiliation: DU
-  github: 
-  interests:
-    - Health Science
-
-- name: Kokobe W/yohannes
-  affiliation: DU
-  github: 
-  interests:
-    - Agriculture
-
-- name: Shewaye Semaw
-  affiliation: DU
-  github: 
-  interests:
-    - Social Science
     
-- name: Aberash Aylado
-  affiliation: DU
+- name: Tenagnework Dilnessa
+  affiliation: Wollo University
   github: 
   interests:
-    - Natural Science
+    
 
+- name: Serkalem Yilmer
+  affiliation: Wollo University
+  github: 
+  interests:
+  
+
+- name: Dr. Yohannes Gedamu
+  affiliation: Wollo University
+  github: 
+  interests:
+   
+    
+- name: Leykun Getaneh
+  affiliation: Wollo University
+  github: 
+  interests:
+    
+- name: Yerab Abtew
+  affiliation: Wollo TVET
+  github: 
+  interests:
+
+- name: Alemitu Abate
+  affiliation: Wollo TVET
+  github: 
+  interests:
+  
+ - name: Hussien Kassa
+  affiliation: Wollo TVET
+  github: 
+  interests:
+  
+ - name: Mohammed Awol
+  affiliation: Wollo TVET
+  github: 
+  interests:
+  
+    
+ - name: Mitiku Getachew
+  affiliation: Wollo TVET
+  github: 
+  interests:
+  
+    
+ - name: Abdu Yimam
+  affiliation: Wollo TVET
+  github: 
+  interests:
+  
+  
